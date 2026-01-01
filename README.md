@@ -86,27 +86,7 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yukti1902&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Yukti1902&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukti1902&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-────────── ✦ ──────────
-</p>
-
-<!-- ===================== TROPHIES ===================== -->
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yukti1902&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
@@ -134,9 +114,3 @@
 </p>
 
 <p align="center">
-────────── ✦ ──────────
-</p>
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
