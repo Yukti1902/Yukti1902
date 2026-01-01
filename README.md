@@ -3,7 +3,7 @@
 👋 Hi, I’m **Yukti Gupta**  
 
 🎓 Computer Science & Engineering (AIML) undergraduate  
-🤖 Passionate about **AI, Machine Learning, and Software Development**
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
 
 I enjoy building intelligent systems that solve real-world problems, writing clean and scalable code, and continuously improving my problem-solving skills through hands-on projects and learning.
 
@@ -11,9 +11,11 @@ I enjoy building intelligent systems that solve real-world problems, writing cle
 
 ## 🔍 Interests
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing+(NLP);Computer+Vision;Data+Structures+%26+Algorithms;Backend+Development" />
-</p>
+- 🤖 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="20"/> Machine Learning & Deep Learning  
+- 🧠 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="20"/> Natural Language Processing (NLP)  
+- 👁️ <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="20"/> Computer Vision  
+- ⚙️ <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="20"/> Data Structures & Algorithms  
+- 🖥️ <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="20"/> Backend Development  
 
 ---
 
@@ -62,7 +64,7 @@ I enjoy building intelligent systems that solve real-world problems, writing cle
 
 ## 🚀 Currently Working On
 - ML & DL projects with real-world applications  
-- Strengthening DSA & system design concepts  
+- Strengthening DSA & system design  
 - Exploring research-oriented AI problems  
 
 ---
@@ -97,4 +99,3 @@ I enjoy building intelligent systems that solve real-world problems, writing cle
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Yukti1902&icon=0&color=0)](https://visitcount.itsvg.in)
-
