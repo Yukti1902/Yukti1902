@@ -1,7 +1,11 @@
 <!-- ===================== PIXEL HEADER ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yukti1902/Yukti1902/main/assets/header-pixel.png" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/Yukti1902/Yukti1902/main/assets/header-pixel.png"
+    width="100%"
+    height="260"
+  />
 </p>
 
 <p align="center">
