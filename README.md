@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Yukti1902/Yukti1902/main/assets/header-pixel.png"
+    src="https://raw.githubusercontent.com/Yukti1902/Yukti1902/main/assets/header2.png"
     width="100%"
     height="260"
   />
