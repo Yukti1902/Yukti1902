@@ -62,7 +62,11 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn,numpy,pandas,mysql,mongodb,postgres,docker,kubernetes,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,kubernetes,linux,git,github&theme=dark" />
 </p>
 
 <p align="center">
